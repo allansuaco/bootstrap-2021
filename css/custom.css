@@ -1,0 +1,50 @@
+.logo {
+	width: 80px;
+    margin-top: -13px;
+}
+
+/*
+ * navbar css
+ */
+.navbar { background-color: #339AD5; color: #FFF; }
+li.hover:hover { background-color: #333333; }
+.navbar-default .navbar-nav>li>a { color: #FFF; }
+.navbar-default .navbar-nav>li>a:hover { color: #FFF; }
+.navbar-default .navbar-brand { color: #FFF; }
+.navbar-default .navbar-brand:hover { color: #FFF; }
+.dropdown-menu>li>a:hover { background-color: #333333; color: #FFF; }
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus { background-color: #333333; color: #FFF; }
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus { background-color: #333333; color: #FFF; }
+.navbar-toggle { background-color: #fff; }
+
+/*
+ * footer css
+ */
+.footer { padding-top:15px; padding-left:20px; }
+
+/*
+ * panel heading css
+ */
+.panel-default > .panel-heading { color: #FFF; background-color: #035384; border-color: #ddd; }
+
+/*
+ * thumbnail css
+ */
+.thumbnail { background-color: #F1F1F1; border: 0px solid #ddd; padding: 10px; }
+.btnThumbnail { text-align: center; }
+
+/*
+ * text link css
+ */
+a.text-link { font-family: 'Calibri'; font-weight: normal; font-size: 16px; color: #000; text-decoration: underline; }
+a.text-link:hover { text-decoration: none; }
+
+/*
+ * notice and error text css
+ */    
+span.notice-error { font-family: 'Calibri'; font-weight: normal; font-size: 16px; color: #c4070a; }
+
+/*
+ * notice and error text css
+ */ 
+input[type="text"] { border: 1px solid #cccccc; padding: 5px; width: 100%; }
